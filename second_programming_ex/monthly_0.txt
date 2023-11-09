@@ -1,0 +1,5 @@
+<class '__main__.Monthly'>
+Check your financial position
+2023
+9
+1

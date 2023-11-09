@@ -1,0 +1,5 @@
+<class '__main__.Daily'>
+Wake up
+2023
+1
+1
